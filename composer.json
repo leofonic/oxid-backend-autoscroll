@@ -1,6 +1,6 @@
 {
     "name":        "zunderweb/oxid-backend-autoscroll",
-    "description": "OXID eShop: Scrolls to selected list entry automatically in backend,
+    "description": "OXID eShop: Scrolls to selected list entry automatically in backend",
     "type":        "oxideshop-module",
     "keywords":    [
         "oxid",
