@@ -3,7 +3,7 @@ $aModule = array(
     'id'          => 'backend-autoscroll',
     'title'       => 'Zunderweb Admin Lists Autoscroll',
     'description' =>  array(
-        'de'=>'Scrollt im Backend automatisch zum ausgewählten Listeneintrag',
+        'de'=>'Scrollt im Backend automatisch zum ausgew&auml;hlten Listeneintrag',
         'en'=>'Scrolls to selected list entry automatically in backend',
     ),
     'version'     => '1.0',
