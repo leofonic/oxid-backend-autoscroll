@@ -1,4 +1,5 @@
 <?php
+$sMetadataVersion = '1.1';
 $aModule = array(
     'id'          => 'backend-autoscroll',
     'title'       => 'Zunderweb Admin Lists Autoscroll',
